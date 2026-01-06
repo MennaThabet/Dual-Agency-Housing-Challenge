@@ -55,6 +55,13 @@ All preprocessing steps are fitted on training data only and saved as artifacts.
 - **Private Leaderboard Rank:** 🥈 2nd Place  
 - **Private Score (MSE):** `0.23875`
 
+<p align="center">
+  <img src="leaderboard.jpg" alt="Private Leaderboard Result - 2nd Place" width="650">
+</p>
+
+**Submission file:**  
+- [`submission_enhancements.csv`](submission_enhancements.csv)
+
 ---
 
 ## Technologies Used
@@ -84,5 +91,3 @@ All preprocessing steps are fitted on training data only and saved as artifacts.
 ## Author
 **Menna Thabet**  
 Computer Science & AI Student  
-
-## Repository Structure
